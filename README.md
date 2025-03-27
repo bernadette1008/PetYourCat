@@ -1,16 +1,26 @@
-# fproject
+# 고양이를 만지고 잡고 놀아보자
+## Pet Your Cat
 
-A new Flutter project.
+털 날리고 까칠한 고양이를 앱 또는 웹을 통해 만나보자
+방을 변경하고 만지고 옮지고 하여 고양이의 움직임을 살펴보자
+컨디션을 확인하고 케어하는 집사의 삶을 살아보자
 
-## Getting Started
+--
+# 구현하고 싶은 기능
+## 고양이 관련 기능
+ - 고양이가 스스로 움직이는 기능
+ - 고양이를 잡고 옮기는 기능
+ - 고양이를 쓰다듬는 기능
+ - 고양이의 밥과 화장실을 챙겨주는 기능
+ - 고양이의 종 또는 모습을 설정하는 기능
 
-This project is a starting point for a Flutter application.
+## 방 관련 기능
+ - 방 사진을 직접 설정하고 변경하는 기능 (최대 3개까지)
 
-A few resources to get you started if this is your first Flutter project:
+# 현재 구현된 기능
+## 고양이 관련 기능
+ - 고양이를 잡고 옮기는 기능
+ - 고양이를 쓰다듬는 기능?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 방 관련 기능
+ - 방을 변경하는 기능
